@@ -4,6 +4,8 @@
   "license": "MIT",
   "scripts": {
     "ng": "nx",
+    "nx-gen-example": "nx generate @nrwl/angular:lib models --tags=\"type:model\",\"scope:shared\" --publishable --importPath=@whg/models",
+    "build": "nx run-many --all --target=build",
     "postinstall": "node ./decorate-angular-cli.js"
   },
   "private": true,
@@ -46,7 +48,12 @@
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
     "jest-preset-angular": "~12.2.3",
+    "ng-packagr": "~15.0.0",
     "nx": "15.4.2",
+    "postcss": "^8.4.5",
+    "postcss-import": "~14.1.0",
+    "postcss-preset-env": "~7.5.0",
+    "postcss-url": "~10.1.3",
     "prettier": "^2.6.2",
     "ts-jest": "28.0.5",
     "ts-node": "10.9.1",
