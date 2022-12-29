@@ -6,7 +6,8 @@
     "ng": "nx",
     "nx-gen-example": "nx generate @nrwl/angular:lib models --tags=\"type:model\",\"scope:shared\" --publishable --importPath=@whg/models",
     "build": "nx run-many --all --target=build",
-    "postinstall": "node ./decorate-angular-cli.js"
+    "postinstall": "node ./decorate-angular-cli.js",
+    "add-semver": "nx g @jscutlery/semver:install"
   },
   "private": true,
   "dependencies": {
@@ -31,6 +32,7 @@
     "@angular/cli": "~15.0.0",
     "@angular/compiler-cli": "~15.0.0",
     "@angular/language-service": "~15.0.0",
+    "@jscutlery/semver": "^2.29.3",
     "@nrwl/cypress": "15.4.2",
     "@nrwl/eslint-plugin-nx": "15.4.2",
     "@nrwl/jest": "15.4.2",
