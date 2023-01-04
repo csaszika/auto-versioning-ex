@@ -84,6 +84,13 @@
         "jestConfig": "apps/example-app/jest.config.ts",
         "passWithNoTests": true
       }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "angular",
+        "skipCommitTypes": ["docs", "ci", "test"]
+      }
     }
   },
   "tags": []

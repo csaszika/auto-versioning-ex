@@ -35,6 +35,13 @@
       "options": {
         "lintFilePatterns": ["libs/core/**/*.ts", "libs/core/**/*.html"]
       }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "angular",
+        "skipCommitTypes": ["docs", "ci", "test"]
+      }
     }
   },
   "tags": ["type:core", "scope:shared"]

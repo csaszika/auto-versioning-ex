@@ -38,6 +38,13 @@
           "libs/store-publishable/**/*.html"
         ]
       }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "angular",
+        "skipCommitTypes": ["docs", "ci", "test"]
+      }
     }
   },
   "tags": ["type:store", "scope:shared"]
