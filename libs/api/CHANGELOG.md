@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.2.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.1.0...api-0.2.0) (2023-01-11)
+
+
+### Features
+
+* **api:** delete function to service ([c422e38](https://github.com/csaszika/auto-versioning-ex/commit/c422e3843872b22ed243f25fa14c62003cf87cbd))
+
+
+
 # [0.1.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.0.1...api-0.1.0) (2023-01-11)
 
 
