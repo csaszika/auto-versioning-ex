@@ -9,4 +9,8 @@ export class ApiService {
       massacre: 15,
     }
   }
+
+  post(): void {
+    console.log("post");
+  }
 }
