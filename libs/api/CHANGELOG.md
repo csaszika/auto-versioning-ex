@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.3.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.2.0...api-0.3.0) (2023-01-11)
+
+
+### Features
+
+* **api:** put function to service ([e84f732](https://github.com/csaszika/auto-versioning-ex/commit/e84f732fcb3aa56b7ea0719641de8d613acf5b83))
+
+
+
 # [0.2.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.1.0...api-0.2.0) (2023-01-11)
 
 
