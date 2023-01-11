@@ -5,3 +5,8 @@ import { CommonModule } from '@angular/common';
   imports: [CommonModule],
 })
 export class StorePublishableModule {}
+
+@NgModule({
+  imports: [CommonModule],
+})
+export class NewStorePublishableModule {}
