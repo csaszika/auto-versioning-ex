@@ -9,3 +9,8 @@ export interface InterfaceExample {
 }
 
 export type TypeExample = boolean;
+
+export interface NewInterfaceAsFeatureToTriggerVersioning {
+  version: string;
+  shouldWork: boolean;
+}
