@@ -17,4 +17,8 @@ export class ApiService {
   delete(): void {
     console.log("delete");
   }
+
+  put(): void {
+    console.log("put");
+  }
 }
