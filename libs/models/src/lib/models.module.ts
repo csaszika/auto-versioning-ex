@@ -13,4 +13,5 @@ export type TypeExample = boolean;
 export interface NewInterfaceAsFeatureToTriggerVersioning {
   version: string;
   shouldWork: boolean;
+  newProp: number;
 }
