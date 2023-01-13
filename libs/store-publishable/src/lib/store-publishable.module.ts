@@ -17,6 +17,6 @@ export class NewStorePublishableModule {
 }
 
 @NgModule({
-  imports: [CommonModule],
+  imports: [],
 })
 export class NewestStorePublishableModule {}
