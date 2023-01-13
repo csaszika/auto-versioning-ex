@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.3.0](https://github.com/csaszika/auto-versioning-ex/compare/store-publishable-0.2.0...store-publishable-0.3.0) (2023-01-13)
+
+
+### Features
+
+* **store:** newest store module ([1e1a027](https://github.com/csaszika/auto-versioning-ex/commit/1e1a0278298a8f9aa4d04dedc1ffba895303ff87))
+
+
+
 # [0.2.0](https://github.com/csaszika/auto-versioning-ex/compare/store-publishable-0.1.0...store-publishable-0.2.0) (2023-01-13)
 
 
