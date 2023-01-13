@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.4.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.3.0...api-0.4.0) (2023-01-13)
+
+
+### Features
+
+* new api method which used in store ([78fdecc](https://github.com/csaszika/auto-versioning-ex/commit/78fdecc29c7d5be60072d4ed9e81ba6c24917d0e))
+
+
+
 # [0.3.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.2.0...api-0.3.0) (2023-01-11)
 
 
