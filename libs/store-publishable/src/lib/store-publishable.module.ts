@@ -15,3 +15,8 @@ export class NewStorePublishableModule {
     service.postUsedInStore();
   }
 }
+
+@NgModule({
+  imports: [CommonModule],
+})
+export class NewestStorePublishableModule {}
