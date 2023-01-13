@@ -14,6 +14,11 @@ export class ApiService {
     console.log("post");
   }
 
+
+  postUsedInStore(): void {
+    console.log("postUsedInStore");
+  }
+
   delete(): void {
     console.log("delete");
   }
