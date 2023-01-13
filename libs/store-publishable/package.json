@@ -4,7 +4,7 @@
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0",
-    "@whg/api": "0.0.1",
+    "@whg/api": "0.4.0",
     "@whg/core": "0.0.1",
     "@whg/models": "0.0.1"
   },
