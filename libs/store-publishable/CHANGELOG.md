@@ -2,6 +2,10 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.3.1](https://github.com/csaszika/auto-versioning-ex/compare/store-publishable-0.3.0...store-publishable-0.3.1) (2023-01-13)
+
+
+
 # [0.3.0](https://github.com/csaszika/auto-versioning-ex/compare/store-publishable-0.2.0...store-publishable-0.3.0) (2023-01-13)
 
 
