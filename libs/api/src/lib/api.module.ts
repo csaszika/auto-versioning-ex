@@ -10,6 +10,13 @@ export class ApiService {
     }
   }
 
+  get2(): InterfaceExample {
+    return  {
+      name: 'api name',
+      massacre: 15,
+    }
+  }
+
   post(): void {
     console.log("post");
   }
