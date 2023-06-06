@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [0.7.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.6.0...api-0.7.0) (2023-06-06)
+
+
+### Features
+
+* **api:** get2 api is deleted ([45fb3a3](https://github.com/csaszika/auto-versioning-ex/commit/45fb3a308644cebc84d7297a2f42a5d2860d1a5f))
+
+
+
 # [0.6.0](https://github.com/csaszika/auto-versioning-ex/compare/api-0.5.0...api-0.6.0) (2023-05-31)
 
 
